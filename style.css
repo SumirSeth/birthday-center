@@ -24,9 +24,20 @@ p.main{
     color: rgba(104, 103, 103, 0.712);
     font-style: italic;
     text-align: center;
-    padding-bottom: 6vh;
+    padding-bottom: 10vh;
 }
 
 img{
     width: 1vw;
+}
+
+div.card{
+    margin: 5vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1vh;
+    background-color: #000000;
+    color: aliceblue;
 }
