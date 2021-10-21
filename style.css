@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(221, 221, 142);
+    font-family: 'Google Sans';
+    font-weight: 800;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size:15vh;
+    padding: 31.5vh;
+    
+}
