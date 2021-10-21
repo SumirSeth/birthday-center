@@ -11,10 +11,17 @@ h1 {
     font-size:10vw;
     text-align: center;
     text-shadow: 1px 1px 5px white;
-    padding-top: 20.8vh;
-    padding-bottom: 20.8vh;
+    padding-top: 19vh;
+    padding-bottom: 6vh;
     display: flex;
     justify-content: center;
     align-items: center;
 
+}
+
+p{
+    font-size: 1.5vw;
+    color: rgba(104, 103, 103, 0.712);
+    font-style: italic;
+    text-align: center;
 }
